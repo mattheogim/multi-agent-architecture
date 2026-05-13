@@ -1,5 +1,7 @@
 # Multi-Agent Architecture Framework
 
+[![Live docs](https://img.shields.io/badge/docs-multi--agent--architecture.vercel.app-black?style=flat-square)](https://multi-agent-architecture.vercel.app)
+
 A reusable framework for designing, validating, and managing software architectures across **14 perspectives**. Drop in any project's system spec, propose a change, and get a structured report with suggestions back.
 
 > **Status:** Design phase. The 14-category model, tier structure, hallucination defense, and build phases are specified. Implementation is incremental (see Phase plan below).
